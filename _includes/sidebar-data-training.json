@@ -1,10 +1,188 @@
-[{
+[
+  {
     "title": "Training Home",
     "urls": [
       "/training/"
     ]
   },
   {
+    "title": "Introduction",
+    "items": [
+      {
+        "title": "Why CockroachDB?",
+        "urls": [
+          "/training/why-cockroachdb.html"
+        ]
+      },
+      {
+        "title": "Architecture Overview",
+        "urls": [
+          "/training/architecture-overview.html"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ops Basics",
+    "items": [
+      {
+        "title": "Cluster Startup and Scaling",
+        "urls": [
+          "/training/cluster-startup-and-scaling.html"
+        ]
+      },
+      {
+        "title": "Fault Tolerance and Automated Repair",
+        "urls": [
+          "/training/fault-tolerance-and-automated-repair.html"
+        ]
+      },
+      {
+        "title": "Locality and Replication Zones",
+        "urls": [
+          "/training/locality-and-replication-zones.html"
+        ]
+      },
+      {
+        "title": "Data Import",
+        "urls": [
+          "/training/data-import.html"
+        ]
+      },
+      {
+        "title": "Identity and Access Management",
+        "urls": [
+          "/training/identity-and-access-management.html"
+        ]
+      },
+      {
+        "title": "Security",
+        "urls": [
+          "/training/security.html"
+        ]
+      },
+      {
+        "title": "CockroachDB SQL and the Built-in Client",
+        "urls": [
+          "/training/cockroachdb-sql.html"
+        ]
+      },
+      {
+        "title": "Production Deployments",
+        "urls": [
+          "/training/production-deployments.html"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Monitoring",
+    "items": [
+      {
+        "title": "CockroachDB Admin Tools",
+        "urls": [
+          "/training/admin-ui.html"
+        ]
+      },
+      {
+        "title": "Important Metrics and Alerting",
+        "urls": [
+          "/training/monitoring.html"
+        ]
+      },
+      {
+        "title": "Additional Monitoring Options",
+        "urls": [
+          ""
+        ]
+      },
+      {
+        "title": "Debug Logs",
+        "urls": [
+          "/training/logs.html"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Troubleshooting",
+    "items": [
+      {
+        "title": "Cluster Initialization",
+        "urls": [
+          ""
+        ]
+      },
+      {
+        "title": "Scaling",
+        "urls": [
+          "/training/decommission-nodes.html"
+        ]
+      },
+      {
+        "title": "Client Connections",
+        "urls": [
+          ""
+        ]
+      },
+      {
+        "title": "Availability",
+        "urls": [
+          ""
+        ]
+      },
+      {
+        "title": "Performance",
+        "urls": [
+          ""
+        ]
+      },
+      {
+        "title": "Real Examples",
+        "urls": [
+          ""
+        ]
+      },
+      {
+        "title": "When/How to Get Examples",
+        "urls": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Maintenance",
+    "items": [
+      {
+        "title": "Planned Maintenance",
+        "urls": [
+
+        ]
+      },
+      {
+        "title": "Node Decommissioning",
+        "urls": [
+          "/training/decommission-nodes.html"
+        ]
+      },
+      {
+        "title": "Cluster Upgrades",
+        "urls": [
+          "/training/upgrade-a-cluster.html"
+        ]
+      },
+      {
+        "title": "Enterprise Backup and Restore",
+        "urls": [
+          "/training/back-up-a-cluster.html"
+        ]
+      }
+    ]
+  }
+]
+
+  /* {
     "title": "Day 1",
     "items": [
       {
@@ -176,4 +354,4 @@
       }
     ]
   }
-]
+] */

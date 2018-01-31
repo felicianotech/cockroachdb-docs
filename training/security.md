@@ -169,6 +169,6 @@ $ cockroach sql \
 > SHOW DATABASES;
 ~~~
 
-## Up Next
+## What's Next?
 
 - [Production Deployments](production-deployments.html)

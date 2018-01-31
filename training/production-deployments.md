@@ -23,6 +23,6 @@ In this lab, we'll simply point you to the docs for your preferred cloud platfor
 
 If you have any questions about how this would work in your environment, now is a great time to ask the instructor.
 
-## Up Next
+## What's Next?
 
 - [Day 1 Recap](day-1-recap.html)

@@ -86,6 +86,6 @@ $ cockroach node status --certs-dir=certs
 
 The second node will no longer display.
 
-## Up Next
+## What's Next?
 
 - [Back up a Cluster](back-up-a-cluster.html)

@@ -62,6 +62,6 @@ Now, given that we only set `itsme` to have `SELECT`, `INSERT`, `UPDATE` and `DE
 pq: user itsme does not have CREATE privilege on database foo
 ~~~
 
-## Up Next
+## What's Next?
 
 - [Security](security.html)

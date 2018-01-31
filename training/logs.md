@@ -15,6 +15,6 @@ sidebar_data: sidebar-data-training.json
 
 *TBD*
 
-## Up Next
+## What's Next?
 
 - [Upgrade a Cluster](upgrade-a-cluster.html)

@@ -429,6 +429,6 @@ When you no longer need a database, use [`DROP DATABASE`](../stable/drop-databas
 > DROP DATABASE bank;
 ~~~
 
-## Up Next
+## What's Next?
 
 - [Connect an Application](connect-an-app.html)

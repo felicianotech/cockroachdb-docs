@@ -117,6 +117,6 @@ $ cockroach node status --certs-dir=certs
 
 You should now see that all 3 nodes in your cluster have the same, upgraded version.
 
-## Up Next
+## What's Next?
 
 - [Decommission Nodes](decommission-nodes.html)

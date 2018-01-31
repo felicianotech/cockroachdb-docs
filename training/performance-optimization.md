@@ -115,6 +115,6 @@ You'll notice that `customers.id` and `orders.customer` are written into the sam
 
 To better understand how CockroachDB writes key-value data, see our blog post [Mapping Table Data to Key-Value Storage](https://www.cockroachlabs.com/blog/sql-in-cockroachdb-mapping-table-data-to-key-value-storage/).
 
-## Up Next
+## What's Next?
 
 - [Monitoring with the Admin UI](admin-ui.html)
