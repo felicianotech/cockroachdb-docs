@@ -50,7 +50,6 @@ workflows:
       - deploy:
           requires:
             - build
-            - build2
           filters:
             branches:
               only: master
